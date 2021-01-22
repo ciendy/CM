@@ -15,14 +15,9 @@
    --- Credits and contact ---
 
    Primary style developer:
-   HEEBEEJEEBEES; bluufoxx[at]gmail[dot]com
+   Ciendy; natal.natt@gmail.com
 
-   Original concept, theme director and code host:
-   Wizzikz; rihikz[at]gmail[dot]com
-
-   Community host, community background and assorted UI images:
-   Nighthawk; nite4wk[at]gmail[dot]com
-
+  
    Chillout Mixer logo and assorted site images:
    FunkyBrewster
 
@@ -127,7 +122,7 @@ button:not(:hover),
 #user-settings a > div:hover,
 #user-settings a > div:not(:hover)
 #footer-user .button{
-  transition: background-color 0.2s !Important;
+  transition: -color 0.2s !Important;
 }
 #user-settings button:hover,
 #user-settings button:not(:hover){
@@ -953,7 +948,7 @@ div .user:hover .name span,
   /* Backgrounds and gradients */
     /* Room background */
 #room .room-background{
-  background-image: url(https://i.imgur.com/roz0KD9.jpg) !important;
+  background-image: url(https://i.imgur.com/Dm2WDbj.jpg) !important;
 }
     /* Room logo */
 #room-settings,
